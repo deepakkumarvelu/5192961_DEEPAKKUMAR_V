@@ -1,0 +1,29 @@
+git init
+
+git add .
+
+git status
+
+git commit -m "p
+
+git config --gl
+
+git config --g
+
+git log
+
+git log --oneline
+
+git tag First
+
+git push origin main
+
+git diff First
+
+git branch
+
+git branch Workout
+
+git checkout Workout
+
+git push -u origin Workout
